@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(50deg, #29eb2fab, #90db5b47);
+}
+
+.main {
+    width: 300px;
+    margin: auto;
+    align-items: center;
+    height: 60vh;
+}
+
+span.loading {
+    font-size: 50px;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+    font-family: sans-serif;
+    margin-top: 40vh;
+}
+
+span {
+    font-family: -webkit-body;
+}
